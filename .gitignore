@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 虚拟环境
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# 环境变量（重要：不要提交 API Keys）
+.env
+
+# 输出文件
+output/
+*.md
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# 测试和覆盖率
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 日志文件
+*.log

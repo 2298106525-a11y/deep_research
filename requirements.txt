@@ -1,0 +1,19 @@
+# 多Agent深度研究智能体 - Python 依赖包
+
+# LLM API 客户端
+openai>=1.0.0
+
+# 搜索引擎 API
+tavily-python>=0.3.0
+
+# 环境变量管理
+python-dotenv>=1.0.0
+
+# HTTP 请求库
+requests>=2.31.0
+
+# HTML 解析
+beautifulsoup4>=4.12.0
+
+# 进度条显示
+tqdm>=4.66.0
