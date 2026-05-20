@@ -39,7 +39,7 @@ ENV/
 
 # 输出文件
 output/
-*.md
+
 
 # Jupyter Notebook
 .ipynb_checkpoints
